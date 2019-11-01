@@ -1,6 +1,5 @@
 from colorama import Fore, Style, Back
 
-
 class Hospital():
     def __init__(self, name):
         self.hospital_name = name
@@ -63,3 +62,4 @@ class Patient():
 
     def add_diagnosis(self, diagnosis):
         self.diagnosis = diagnosis
+

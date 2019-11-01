@@ -1,4 +1,4 @@
-import classes as cl    
+import classes as cl
 
 # create patients
 patient_1 = cl.Patient("Jasmine", 25, "AB")
